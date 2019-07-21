@@ -1,0 +1,21 @@
+<svg class="lds-curve-bars" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><g transform="translate(50,50)"><circle cx="0" cy="0" r="4.545454545454546" fill="none" stroke="#bd4030" stroke-width="2" stroke-dasharray="14.279966607226333 14.279966607226333" transform="rotate(5.48147)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="0" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="9.090909090909092" fill="none" stroke="#e0b83e" stroke-width="2" stroke-dasharray="28.559933214452666 28.559933214452666" transform="rotate(33.6187)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.1" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="13.636363636363637" fill="none" stroke="#7f9626" stroke-width="2" stroke-dasharray="42.839899821679 42.839899821679" transform="rotate(71.0963)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.2" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="18.181818181818183" fill="none" stroke="#76be9f" stroke-width="2" stroke-dasharray="57.11986642890533 57.11986642890533" transform="rotate(113.015)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.3" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="22.727272727272727" fill="none" stroke="#9bcfde" stroke-width="2" stroke-dasharray="71.39983303613165 71.39983303613165" transform="rotate(157.224)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.4" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="27.272727272727273" fill="none" stroke="#599f8c" stroke-width="2" stroke-dasharray="85.679799643358 85.679799643358" transform="rotate(202.165)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.5" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="31.818181818181817" fill="none" stroke="#36173b" stroke-width="2" stroke-dasharray="99.95976625058432 99.95976625058432" transform="rotate(246.394)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.6" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="36.36363636363637" fill="none" stroke="#563e58" stroke-width="2" stroke-dasharray="114.23973285781067 114.23973285781067" transform="rotate(288.356)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.7" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="40.90909090909091" fill="none" stroke="#cc4876" stroke-width="2" stroke-dasharray="128.51969946503698 128.51969946503698" transform="rotate(325.915)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.8" repeatCount="indefinite"></animateTransform>
+</circle><circle cx="0" cy="0" r="45.45454545454545" fill="none" stroke="#f4f3f1" stroke-width="2" stroke-dasharray="142.7996660722633 142.7996660722633" transform="rotate(354.251)">
+<animateTransform attributeName="transform" type="rotate" values="0 0 0;360 0 0" times="0;1" dur="1s" calcMode="spline" keySplines="0.2 0 0.8 1" begin="-0.9" repeatCount="indefinite"></animateTransform>
+</circle></g></svg>

